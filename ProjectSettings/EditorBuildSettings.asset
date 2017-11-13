@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Home.unity
+    guid: 891f20ae54bbe08459ffd27b5b1566d8
+  - enabled: 1
+    path: Assets/Cadastro.unity
+    guid: 813897ed6569ec340bbc8ee819e7e2ca
+  - enabled: 1
+    path: Assets/Iniciar.unity
+    guid: 569597be53b5f4741b224dd41e9f2191
+  - enabled: 1
+    path: Assets/Batatinha.unity
+    guid: b06ca742357ac954fb1088a608ab3dce
+  - enabled: 1
+    path: Assets/Rally1.unity
+    guid: e284b53de03c87146ae6213bc5fd69fc
+  - enabled: 1
+    path: Assets/Alemanha1.unity
+    guid: 8a7218745e6e97441a3502492272c73c
+  - enabled: 1
+    path: Assets/Alemanha2.unity
+    guid: 68912b47d309fdd4f8cbc8e96898a73a
+  - enabled: 1
+    path: Assets/Alemanha3.unity
+    guid: 172bb4e2fd8766644a275e9c48eb69bf
+  - enabled: 1
+    path: Assets/Alemanha4.unity
+    guid: 9c3dc3bb62898c04bbc170d69e9a3a70
+  - enabled: 1
+    path: Assets/AlemanhaSenha.unity
+    guid: 9c70108ad7ae8634280f8d1863e44167
+  - enabled: 1
+    path: Assets/Australia1.unity
+    guid: d0b45ca3885e6ab4c8b57f0fd9f1793e
+  - enabled: 1
+    path: Assets/Australia2.unity
+    guid: 88acfb3bfc4fc904b9648e799622e5ba
+  - enabled: 1
+    path: Assets/Australia3.unity
+    guid: 8bd6e5e92462dbe4a82fb2738e32af58
+  - enabled: 1
+    path: Assets/Australia4.unity
+    guid: f5f164129b056334ba144ffe4d8a5e80
+  - enabled: 1
+    path: Assets/AustraliaSenha.unity
+    guid: 5ccd6ee02c783a34791627e73096d9a0
+  - enabled: 1
+    path: Assets/Brasil1.unity
+    guid: d128aff97558bcb4fbd1dd6e56784d69
+  - enabled: 1
+    path: Assets/Brasil2.unity
+    guid: 13226774ed8794c4b905c370e386f1a3
+  - enabled: 1
+    path: Assets/Brasil3.unity
+    guid: e48fe2d271b29de42803f8420465a84d
+  - enabled: 1
+    path: Assets/Brasil4.unity
+    guid: edbf400344d3f674f84dc4c6b6ce73ce
+  - enabled: 1
+    path: Assets/BrasilSenha.unity
+    guid: 0ea1fcc2dc833094da2c6c8da845d3cc
+  - enabled: 1
+    path: Assets/EUA1.unity
+    guid: 7ffaeff7ffe3b3843861b0954ed60daa
+  - enabled: 1
+    path: Assets/EUA2.unity
+    guid: 07fd1a6535fba464c9959ea69c5ff26c
+  - enabled: 1
+    path: Assets/EUA3.unity
+    guid: e64f5a1eb7add3c4ab0063bd04c3961c
+  - enabled: 1
+    path: Assets/EUA4.unity
+    guid: 562f82e3adfea49478d6a25f731591ae
+  - enabled: 1
+    path: Assets/EUASenha.unity
+    guid: eeb15aa0ac9534643aeea6092cfdd816
+  - enabled: 1
+    path: Assets/Suica1.unity
+    guid: b47e65a02a603984c937d95e7f104815
+  - enabled: 1
+    path: Assets/Suica2.unity
+    guid: cfc80794059464e4bb94f8824a36a8c7
+  - enabled: 1
+    path: Assets/Suica3.unity
+    guid: 54a7266c0ce425d4e933980c73cf418c
+  - enabled: 1
+    path: Assets/Suica4.unity
+    guid: 14882af5f2885fb41acd091688b7903e
+  - enabled: 1
+    path: Assets/SuicaSenha.unity
+    guid: 50d9067ae3a97e74a820920d99738389
+  - enabled: 1
+    path: Assets/Bebe.unity
+    guid: 35123603016e2a442a514874bee3c90a
+  - enabled: 1
+    path: Assets/1.unity
+    guid: 4556425f1a02e264aa14ba90a5c80073
+  - enabled: 1
+    path: Assets/2.unity
+    guid: d0a3a736db1768d459b8a3a6938c578f
+  - enabled: 1
+    path: Assets/3.unity
+    guid: 1295374504c6b1e41bcc392dad0201e2
+  - enabled: 1
+    path: Assets/4.unity
+    guid: 9af7ada8e193f1e43aec3bcf34dacd95
+  - enabled: 1
+    path: Assets/5.unity
+    guid: ba4508e733cdcea428ad77b33225ddac
+  - enabled: 1
+    path: Assets/6.unity
+    guid: 1bd5b174379171749900269875cfa507
+  - enabled: 1
+    path: Assets/7.unity
+    guid: 2632fda2a9ed77c439d9eed3337ef6a3
+  - enabled: 1
+    path: Assets/8.unity
+    guid: 015c1a7cdc060984b85e63f7a5125d86
+  - enabled: 1
+    path: Assets/9.unity
+    guid: 4886c51797db9894989797a2da8d9cd5
+  - enabled: 1
+    path: Assets/10.unity
+    guid: 4316989169d5149448485ed3572468c7
+  - enabled: 1
+    path: Assets/11.unity
+    guid: 846c533e347e2014aaf800462c88bb1f
+  - enabled: 1
+    path: Assets/12.unity
+    guid: 04825d774b69be34ea1f57f56e3605f9
+  - enabled: 1
+    path: Assets/13.unity
+    guid: 1f0310f279d71744691892c47d061979
+  - enabled: 1
+    path: Assets/14.unity
+    guid: f2f7ef6f2cf28854b919b97fb0ef2888
+  - enabled: 1
+    path: Assets/15.unity
+    guid: 22b1728b9d1fb914780258742e3cedfc
+  - enabled: 1
+    path: Assets/16.unity
+    guid: fa27fb644a45afb4998b0e0af00736e0
+  - enabled: 1
+    path: Assets/17.unity
+    guid: e464fe55b9527874b94362990c0fb33a
+  - enabled: 1
+    path: Assets/18.unity
+    guid: f4c78fd0c82df9d43b89ebead7f57565
+  - enabled: 1
+    path: Assets/19.unity
+    guid: 6e202726913c3f84fbac8744508b94e3
+  - enabled: 1
+    path: Assets/20.unity
+    guid: 63664f01be2c684479d814bd3df94f3b
+  - enabled: 1
+    path: Assets/Rank.unity
+    guid: 176de3642638aa34ca1479c935adcdd5
